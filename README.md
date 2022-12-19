@@ -2,6 +2,6 @@
 
 ## projeto para tecnologias da internet
 
-Loja de sneaker e outros denominada CHAOS🔥
+Loja de sneakers e outros denominada CHAOS🔥
 
 realizado por Francisco Ribeiro
