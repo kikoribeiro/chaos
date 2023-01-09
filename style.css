@@ -2,7 +2,7 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif,;
   }
   header {
-    background-color: rgb(14, 8, 61);
+    background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
     padding: 20px;
     display: flex;
     justify-content: space-between;
@@ -13,6 +13,7 @@ body {
     margin: 0;
   }
   nav {
+    
     display: flex;
     align-items: center;
   }
@@ -27,7 +28,7 @@ body {
   }
   nav a {
     text-decoration: none;
-    color: black;
+    color: rgb(236, 234, 234);
     font-size: 18px;
   }
   nav .menu-icon {
@@ -78,7 +79,6 @@ body {
     color: grey;
   }
   footer {
-    background-color: lightblue;
     text-align: center;
     padding: 20px;
   }
